@@ -7,8 +7,8 @@
 
 <br/>
 
-<div align="center">
- <form>
+<div>
+ <form align ="center">
  🔭 I’m currently  exploring the realms of **Computer Science**
  
  🌱 I’m currently learning **Machine Learning**
