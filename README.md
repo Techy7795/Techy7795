@@ -7,8 +7,8 @@
 
 <br/>
 
-<div >
- 
+<div align="center">
+ <form>
  🔭 I’m currently  exploring the realms of **Computer Science**
  
  🌱 I’m currently learning **Machine Learning**
@@ -18,7 +18,7 @@
  💼 Open to SDE/SWE roles.
 
  ⚡Hobbies: playing chess and listening music.
-
+</form>
  </div>
  
 <div align="center"> 
