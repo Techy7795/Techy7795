@@ -38,9 +38,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-   
-    <img src="https://skillicons.dev/icons?i=azure,py,c,cpp,java,mysql,flask" /><br>
-     <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,github,git,r,aws" />
+    <img src="https://skillicons.dev/icons?i=azure,py,c,cpp,java,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,vscode,github,git,r,aws" /><br/>
 </div>
 
 <br/>
