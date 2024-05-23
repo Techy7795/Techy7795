@@ -7,7 +7,7 @@
 
 <br/>
 
-<div align="center">
+<div >
  
  🔭 I’m currently  exploring the realms of **Computer Science**
  
